@@ -22,9 +22,10 @@ The ERD is a diagram that mimicks relationships in Pewlett Hackard employee data
 ### For Deliverable 2 
 This is to generate list of employees who were eligible for the mentorship program. By joining employees employees, dept_emp, and titles. Resused with Distint ON (emp_no) to fileter the resulting table in certain order. 
 - The results revealed that 1549 employees were eligible for the mentorship program in CSV file and the first 10 employees in the list.
-## Summary
-All Deliverables have been completed and summarized without any problems. Though the huge gaps between numbers of retirement-ready employees and mentorship-eligible employees looked grim. It seems that majority of the retiring people worked in senior field. Then we have the opening position mostly on senior position looking to hire employees from lower position
 
 ![](Mentorship_eligibility.png)
 
 ^Mentorship Eligibility
+
+## Summary
+All Deliverables have been completed and summarized without any problems. Though the huge gaps between numbers of retirement-ready employees and mentorship-eligible employees looked grim. It seems that majority of the retiring people worked in senior field. Then we have the opening position mostly on senior position looking to hire employees from lower position
